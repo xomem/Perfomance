@@ -1,0 +1,16 @@
+c:\users\erika\source\repos\Performance\Performance\bin\Debug\Performance.exe.config
+c:\users\erika\source\repos\Performance\Performance\bin\Debug\Performance.exe
+c:\users\erika\source\repos\Performance\Performance\bin\Debug\Performance.pdb
+c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance.csprojResolveAssemblyReference.cache
+c:\users\erika\source\repos\Performance\Performance\obj\Debug\MainWindow.g.cs
+c:\users\erika\source\repos\Performance\Performance\obj\Debug\App.g.cs
+c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance_MarkupCompile.cache
+c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance_MarkupCompile.lref
+c:\users\erika\source\repos\Performance\Performance\obj\Debug\MainWindow.baml
+c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance.g.resources
+c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance.Properties.Resources.resources
+c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance.csproj.GenerateResource.cache
+c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance.csproj.CoreCompileInputs.cache
+c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance.exe
+c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance.pdb
+c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance.CPUUserControl.resources
