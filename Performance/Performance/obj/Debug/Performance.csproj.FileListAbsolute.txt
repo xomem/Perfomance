@@ -13,4 +13,10 @@ c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance.csproj
 c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance.csproj.CoreCompileInputs.cache
 c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance.exe
 c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance.pdb
-c:\users\erika\source\repos\Performance\Performance\obj\Debug\Performance.CPUUserControl.resources
+C:\Users\Erika\source\repos\Performance\Performance\bin\Debug\OxyPlot.dll
+C:\Users\Erika\source\repos\Performance\Performance\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Erika\source\repos\Performance\Performance\bin\Debug\OxyPlot.pdb
+C:\Users\Erika\source\repos\Performance\Performance\bin\Debug\OxyPlot.xml
+C:\Users\Erika\source\repos\Performance\Performance\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Erika\source\repos\Performance\Performance\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Erika\source\repos\Performance\Performance\obj\Debug\Performance.csproj.CopyComplete

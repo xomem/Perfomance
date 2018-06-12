@@ -28,10 +28,7 @@ namespace Performance
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            CPUUserControl cPUUser = new CPUUserControl();
-
-            UserControlGrid.Children.Add(cPUUser);
-            StackPanelUserControl.Children.Add(cPUUser);
+           
             //MainFrame.Navigate(cPUUser);
         }
     }    
